@@ -1,0 +1,10 @@
+{
+  "name": "lipogrammatic-Editor",
+  "references": [
+    "lipogrammatic"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
